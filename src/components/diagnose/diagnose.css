@@ -1,0 +1,29 @@
+.diagnose{
+    background: #FDFDFD;
+    padding: 30px;
+    margin-top: 50px;
+    min-height: 600px;
+}
+
+.diagnose-login{
+    background: #FDFDFD;
+    padding: 30px;
+    margin-top: 50px;
+}
+
+.image-container{
+    background: #EFEFEF;
+    margin: 10px;
+    box-shadow: 5px 5px 5px 5px #888888;
+    width: 100%;
+    min-height: 500px;
+}
+
+.image{
+    border: #0d638f solid 1px;
+}
+
+.button-bar{
+    position: absolute;
+    bottom: 20px;
+}

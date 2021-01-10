@@ -1,0 +1,20 @@
+.registration{
+  background: #FDFDFD;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  padding-top: 40px;
+  padding-bottom: 80px;
+}
+.image-upload-container{
+  padding-top: 20px;
+}
+
+.input{
+  border: solid orange 1px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.select-box{
+
+}

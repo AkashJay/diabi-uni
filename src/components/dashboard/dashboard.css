@@ -1,0 +1,13 @@
+.analyze-card{
+    /*background: #EFEFEF;*/
+    margin: 10px;
+    box-shadow: 5px 5px 5px 5px #e9e8e8;
+    width: 100%;
+}
+
+.diagnose-card{
+    /*background: #EFEFEF;*/
+    margin: 10px;
+    /*box-shadow: 5px 5px 5px 5px #888888;*/
+    width: 100%;
+}

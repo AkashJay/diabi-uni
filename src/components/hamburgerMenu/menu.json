@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Registration",
+    "path": "/registration",
+    "subMenu": []
+  },
+  {
+    "name": "Diagnose",
+    "path": "/diagnose",
+    "subMenu": []
+  },
+  {
+    "name": "Analyse",
+    "path": "/analyse",
+    "subMenu": []
+  }
+]

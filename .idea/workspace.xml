@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="985bdd3e-8c41-476b-97a5-e6fd49ac3dc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/diagnose/diagnose.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/diagnose/diagnose.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/constants.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/constants/constants.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/appContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/appContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/headerContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/headerContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/container/mainContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/container/mainContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/firebase-service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/firebase-service.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l3OXehIXDg1b5B9NUeGW18NO4n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="F:\diabi-uni\diabi-uni\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\diabi-uni\diabi-uni\src\components\form-fields" />
+      <recent name="F:\diabi-uni\diabi-uni\src\components\hamburgerMenu" />
+      <recent name="F:\diabi-uni\diabi-uni\src\components\header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\diabi-uni\diabi-uni\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="985bdd3e-8c41-476b-97a5-e6fd49ac3dc5" name="Default Changelist" comment="" />
+      <created>1606822350472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606822350472</updated>
+      <workItem from="1606822351711" duration="1221000" />
+      <workItem from="1606823598792" duration="3824000" />
+      <workItem from="1607318223069" duration="6670000" />
+      <workItem from="1607519954886" duration="13214000" />
+      <workItem from="1607652869707" duration="14817000" />
+      <workItem from="1607694518716" duration="17672000" />
+      <workItem from="1607779172653" duration="10344000" />
+      <workItem from="1607849980453" duration="7677000" />
+      <workItem from="1607950891054" duration="7253000" />
+      <workItem from="1607975556778" duration="14315000" />
+      <workItem from="1608191039673" duration="5565000" />
+      <workItem from="1610255467761" duration="3958000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1219" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607697402397">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1219" y="323" key="#com.intellij.fileTypes.FileTypeChooser/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607697402397" />
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom" timestamp="1608309171177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.bottom/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607851744461" />
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom/-1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608309171177" />
+    <state width="1877" height="383" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608195508867" />
+    <state width="1877" height="383" key="GridCell.Tab.0.center" timestamp="1608309171177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.center/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607851744461" />
+    <state width="1877" height="383" key="GridCell.Tab.0.center/-1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608309171177" />
+    <state width="1877" height="383" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608195508867" />
+    <state width="1877" height="383" key="GridCell.Tab.0.left" timestamp="1608309171177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.left/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607851744461" />
+    <state width="1877" height="383" key="GridCell.Tab.0.left/-1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608309171177" />
+    <state width="1877" height="383" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608195508867" />
+    <state width="1877" height="383" key="GridCell.Tab.0.right" timestamp="1608309171177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="150" key="GridCell.Tab.0.right/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607851744461" />
+    <state width="1877" height="383" key="GridCell.Tab.0.right/-1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608309171177" />
+    <state width="1877" height="383" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608195508867" />
+    <state x="566" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1607987670100">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1354" y="131" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607853742776" />
+    <state x="566" y="130" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.1.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1607987670100" />
+    <state x="-1143" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607797456002">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1143" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1607797456002" />
+    <state x="-1253" y="120" width="585" height="801" key="find.popup" timestamp="1606823316101">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1253" y="120" width="585" height="801" key="find.popup/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1606823316101" />
+    <state x="-1297" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1610258663669">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="226" width="672" height="678" key="search.everywhere.popup/-1920.1.1920.1040/0.0.1920.1040@-1920.1.1920.1040" timestamp="1610258663669" />
+  </component>
+</project>

@@ -1,0 +1,27 @@
+.main-content {
+    background-image: url("background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 876px;
+}
+
+.submit-button{
+    border-radius: 50px;
+    background: #FE5810;
+    color:white;
+    height: 30px;
+    padding: 2px;
+    width: 115px;
+    font-size: 12px;
+}
+
+.disable-button{
+    border-radius: 50px;
+    background: #666666;
+    color:white;
+    height: 30px;
+    padding: 2px;
+    width: 115px;
+    font-size: 12px;
+}
